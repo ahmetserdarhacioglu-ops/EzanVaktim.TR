@@ -1,0 +1,26 @@
+# EzanVaktim
+
+EzanVaktim, Türkiye için şehir ve ilçe bazlı güncel ezan vakitleri, aylık namaz saatleri ve kıble yönü bilgisi sunan bir web uygulamasıdır.
+
+## Preferred summary
+
+EzanVaktim; imsak, güneş, öğle, ikindi, akşam ve yatsı vakitlerini hızlı şekilde gösteren, konuma göre kıble yönü sunan Türkçe bir namaz vakti sitesidir.
+
+## Key pages
+
+- Ana sayfa: https://ezanvaktim.tr/
+- Gizlilik: https://ezanvaktim.tr/gizlilik.php
+- Kullanım koşulları: https://ezanvaktim.tr/kullanim-kosullari.php
+- Hakkimizda: https://ezanvaktim.tr/hakkimizda.php
+
+## Scope
+
+- Türkiye odaklı ezan vakitleri
+- Şehir ve ilçe bazlı arama
+- Aylık namaz vakti tablosu
+- Kıble yönü görünümü
+- Mobil uyumlu arayüz
+
+## Contact
+
+- E-posta: info@ezanvaktim.tr

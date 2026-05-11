@@ -1,0 +1,28 @@
+# Runtime
+storage/cache/*
+storage/logs/*
+!storage/cache/.gitkeep
+!storage/logs/.gitkeep
+
+# PHP
+vendor/
+composer.lock
+*.log
+
+# Ortam
+.env
+.env.*
+!.env.example
+
+# Editör / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
